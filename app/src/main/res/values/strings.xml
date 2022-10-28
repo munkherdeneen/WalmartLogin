@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WalmartLogin</string>
+    <string name="signaccount">Sign in to your account</string>
+    <string name="email_label">Email address (required)</string>
+    <string name="pass_label">Password (required)</string>
+    <string name="forgotpass">Forgot password?</string>
+    <string name="signbutton">Sign In</string>
+    <string name="noaccount">"Don't have an account"</string>
+    <string name="newaccount">"Create a new account"</string>
+</resources>
